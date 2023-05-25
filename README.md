@@ -2,7 +2,7 @@
 My contributions to the CSNL Round Robin Person Decoding analysis, a large project that occupied my third year at the University of Oregon.
 
 ## The data
-Here are two directories, which represent the preprocessing and analysis pipelines for the study.
+There are preprocessing and analysis pipelines for the study:
 
 1. Preprocessing [(~/preprocessing)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/preprocessing)
     1. Convert DICOM data to BIDS format [(~/conversion)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/preprocessing/conversion)
