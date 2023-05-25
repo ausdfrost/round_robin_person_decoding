@@ -17,7 +17,7 @@ There are preprocessing and analysis pipelines for the study:
 Some info about the study...
 
 - - - -
-A project for Dr. Robert Chavez's Computational Social Neuroscience Lab at the University of Oregon. <br />
+A project for Dr. Robert Chavez's Computational Social Neuroscience Lab [(CSNL)](https://csnl.uoregon.edu/) at the University of Oregon. <br />
 Code by Aussie Frost, supervised by Taylor Guthrie. <br />
 Using the [BrainIAK framework](https://github.com/brainiak/brainiak), an open-source brain analysis package.
 
