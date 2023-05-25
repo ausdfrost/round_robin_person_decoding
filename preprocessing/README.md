@@ -1,6 +1,6 @@
 # Preprocessing
 
-Here are my contributions for preprocessing the data...
+Here is how I preprocessed the data:
 
 1. Convert DICOM data to BIDS format [(~/conversion)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/preprocessing/conversion)
 2. Clean-up BIDS data [(~/cleanup)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/preprocessing/cleanup)
