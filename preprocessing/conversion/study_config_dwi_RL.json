@@ -1,0 +1,14 @@
+{
+    "descriptions": [
+       	 {
+       	    "dataType":	"dwi",
+       	    "modalityLabel": "MR",
+       	    "customLabels": "RL",
+       	    "criteria":	{
+                "SeriesDescription": "RL_diff_m2p2_64_2mm_rl"
+            }
+        }
+    ]
+}
+
+
