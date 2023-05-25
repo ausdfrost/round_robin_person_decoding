@@ -13,8 +13,7 @@ There are preprocessing and analysis pipelines for the study:
 2. Analysis [(~/searchlight)]()
 
 ## The study
-
-Some info about the study...
+We wish to predict who in a group of 6 acquanted individuals a respective person in the group is thinking of by running a searchlight classification analysis on all subjects in the study. We have 20 groups of 6 individuals that we ran this analysis on.
 
 - - - -
 A project for Dr. Robert Chavez's Computational Social Neuroscience Lab [(CSNL)](https://csnl.uoregon.edu/) at the University of Oregon. <br />
