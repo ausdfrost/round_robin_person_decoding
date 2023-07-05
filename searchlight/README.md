@@ -1,4 +1,4 @@
-# Searchlight
+# Classification Searchlight Analysis Pipeline
 
 Here is how the analysis pipeline was built and deployed:
 
