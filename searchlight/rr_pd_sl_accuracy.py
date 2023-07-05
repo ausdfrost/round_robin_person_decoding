@@ -1,5 +1,5 @@
 # round robin person decoding classification searchlight analysis
-# this script runs on all subjects and submits jobs to talapas (UO's supercomputer) for parallel runs
+# this script runs on all subjects by using the 'rr_pd_sl_batch.py' script in this dir
 # created by Aussie Frost on 02/14/2023 and based on the BrainIAK pipeline
 # deployed on 07/05/2023
 
