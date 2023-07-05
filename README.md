@@ -10,7 +10,7 @@ There are preprocessing and analysis pipelines for the study:
     3. Finish preprocessing BIDS data in fMRIPrep [(~/fmriprep)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/preprocessing/fmriprep)
     4. Registering subject data run by run to first run (to create similar masks) [(~/zstat)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/preprocessing/zstat)
     5. Merging zstat files [(~/zstat)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/preprocessing/zstat)
-2. Analysis [(~/searchlight)]()
+2. Analysis [(~/searchlight)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/searchlight)
 
 ## The study
 We wish to predict who in a group of 6 acquanted individuals a respective person in the group is thinking of by running a searchlight classification analysis on all subjects in the study. We have 20 groups of 6 individuals that we ran this analysis on.
