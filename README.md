@@ -11,6 +11,8 @@ There are preprocessing and analysis pipelines for the study:
     4. Registering subject data run by run to first run (to create similar masks) [(~/zstat)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/preprocessing/zstat)
     5. Merging zstat files [(~/zstat)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/preprocessing/zstat)
 2. Analysis [(~/searchlight)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/searchlight)
+    1. Jupyter notebook(s) for building and testing the pipeline on a single subject
+    2. Run various 'rr_pd_sl_[...].py' for various classifier metrics (accuracy, sensitivity, specificity)
 
 ## The study
 We wish to predict who in a group of 6 acquanted individuals a respective person in the group is thinking of by running a searchlight classification analysis on all subjects in the study. We have 20 groups of 6 individuals that we ran this analysis on.
