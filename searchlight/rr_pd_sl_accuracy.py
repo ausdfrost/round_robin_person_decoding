@@ -187,4 +187,4 @@ if rank == 0:
     end_time = time.time()
     print('Total searchlight duration (including start up time): %.2f' % (end_time - begin_time))
 
-# Submit this file as a job to the supercomputer via 'rr_pd_sl_batch.sh'
+# Submit this file as a job to the supercomputer via 'rr_pd_sl_batch.py'
