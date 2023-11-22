@@ -27,3 +27,5 @@ Using the [BrainIAK framework](https://github.com/brainiak/brainiak), an open-so
 
 * Started: 2022/08/01 (preprocessing) -> 2023/03/20 (analysis)
 * Finished: 2022/11/01 (preprocessing) -> 2023/09/06 (analysis pass1) -> 2023/11/22 (analysis pass2)
+
+> TODO: finish code annotation, publish finalized code, revise organisation 
