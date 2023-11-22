@@ -1,13 +1,6 @@
 # round_robin_person_decoding
 My contributions to the CSNL Round Robin Person Decoding analysis, a large project that occupied my third year at the University of Oregon. The publication is slated as 'Person Decoding Classification Searchlight Analysis' and is currently in review.
 
-## publication
-* Person Decoding Classification Searchlight Analysis (In Review)
-    * *TD Guthrie, AD Frost, RS Chavez*
-
-* Round Robin Data Paper (In Review)
-   * *TD Guthrie, AD Frost, RS Chavez*
-
 ## directory structure
 There are preprocessing and analysis pipelines for the study:
 
@@ -27,8 +20,16 @@ We wish to predict who in a group of 6 acquanted individuals a respective person
 ## data
 The dataset (to be published at a later date) consisted of Functional magnetic resonance imaging (fMRI) brain scans 20 groups of 6 subjects (114 subjects total) collected by our lab. Each subject contains 5 runs, where in each run they are thinking about randomized members of their group.
 
-## result
+## results
 I was able to build a successful predictive model that decoded (above chance) who in a group of 6 acquanted individuals a respective person in the group is thinking of.
+
+
+## publications
+* Person Decoding Classification Searchlight Analysis (In Review)
+    * *TD Guthrie, AD Frost, RS Chavez*
+
+* Round Robin Data Paper (In Review)
+   * *TD Guthrie, AD Frost, RS Chavez*
 
 - - - -
 A project for Dr. Robert Chavez's Computational Social Neuroscience Lab [(CSNL)](https://csnl.uoregon.edu/) at the University of Oregon. <br />
