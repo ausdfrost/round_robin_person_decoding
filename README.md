@@ -2,11 +2,11 @@
 My contributions to the CSNL Round Robin Person Decoding analysis, a large project that occupied my third year at the University of Oregon. The publication is slated as 'Person Decoding Classification Searchlight Analysis' and is currently in review.
 
 ## publication
-* Person Decoding Classification Searchlight Analysis (*In Review, working title*)
-    * TD Guthrie, AD Frost, RS Chavez
+* Person Decoding Classification Searchlight Analysis (In Review)
+    * *TD Guthrie, AD Frost, RS Chavez*
 
-Round Robin Data Paper (*In Review, working title*)
-* TD Guthrie, AD Frost, RS Chavez
+* Round Robin Data Paper (In Review)
+   * *TD Guthrie, AD Frost, RS Chavez*
 
 ## directory structure
 There are preprocessing and analysis pipelines for the study:
