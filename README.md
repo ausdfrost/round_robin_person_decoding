@@ -21,7 +21,7 @@ We wish to predict who in a group of 6 acquanted individuals a respective person
 The dataset (to be published at a later date) consisted of Functional magnetic resonance imaging (fMRI) brain scans 20 groups of 6 subjects (114 subjects total) collected by our lab. Each subject contains 5 runs, where in each run they are thinking about randomized members of their group.
 
 ## The result
-I was able to build a successful predictive algorithm that decoded (above chance) who in a group of 6 acquanted individuals a respective person in the group is thinking of through the means said above.
+I was able to build a successful predictive model that decoded (above chance) who in a group of 6 acquanted individuals a respective person in the group is thinking of.
 
 - - - -
 A project for Dr. Robert Chavez's Computational Social Neuroscience Lab [(CSNL)](https://csnl.uoregon.edu/) at the University of Oregon. <br />
