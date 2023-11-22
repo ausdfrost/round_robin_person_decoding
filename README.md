@@ -26,4 +26,4 @@ Code by Aussie Frost, supervised by Taylor Guthrie. <br />
 Using the [BrainIAK framework](https://github.com/brainiak/brainiak), an open-source brain analysis package.
 
 * Started: 2022/08/01 (preprocessing) -> 2023/03/20 (analysis)
-* Finished: 2022/11/01 (preprocessing) -> 2023/09/06 (analysis)
+* Finished: 2022/11/01 (preprocessing) -> 2023/09/06 (analysis pass1) -> 2023/11/22 (analysis pass2)
