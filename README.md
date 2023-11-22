@@ -25,11 +25,9 @@ I was able to build a successful predictive model that decoded (above chance) wh
 
 
 ## publications
-* Person Decoding Classification Searchlight Analysis (In Review)
-    * *TD Guthrie, AD Frost, RS Chavez*
+* Person Decoding Classification Searchlight Analysis (In Review) - *TD Guthrie, AD Frost, RS Chavez*
 
-* Round Robin Data Paper (In Review)
-   * *TD Guthrie, AD Frost, RS Chavez*
+* Round Robin Data Paper (In Review) - *TD Guthrie, AD Frost, RS Chavez*
 
 - - - -
 A project for Dr. Robert Chavez's Computational Social Neuroscience Lab [(CSNL)](https://csnl.uoregon.edu/) at the University of Oregon. <br />
