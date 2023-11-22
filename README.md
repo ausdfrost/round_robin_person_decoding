@@ -4,6 +4,7 @@ My contributions to the CSNL Round Robin Person Decoding analysis, a large proje
 ## publication
 Person Decoding Classification Searchlight Analysis (*In Review, working title*)
 * TD Guthrie, AD Frost, RS Chavez
+
 Round Robin Data Paper (*In Review, working title*)
 * TD Guthrie, AD Frost, RS Chavez
 
