@@ -1,7 +1,7 @@
 # round_robin_person_decoding
 My contributions to the CSNL Round Robin Person Decoding analysis, a large project that occupied my third year at the University of Oregon. The publication is slated as 'Person Decoding Classification Searchlight Analysis' and is currently in review.
 
-## The directory structure
+## directory structure
 There are preprocessing and analysis pipelines for the study:
 
 1. Preprocessing [(~/preprocessing)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/preprocessing)
@@ -14,13 +14,13 @@ There are preprocessing and analysis pipelines for the study:
     1. Jupyter notebook(s) for building and testing the pipeline on a single subject
     2. Run various 'rr_pd_sl_[...].py' for various classifier metrics (accuracy, sensitivity, specificity)
 
-## The model
+## model
 We wish to predict who in a group of 6 acquanted individuals a respective person in the group is thinking of by running a searchlight classification analysis on all subjects in the study. We have 20 groups of 6 individuals that we ran this analysis on.
 
-## The data
+## data
 The dataset (to be published at a later date) consisted of Functional magnetic resonance imaging (fMRI) brain scans 20 groups of 6 subjects (114 subjects total) collected by our lab. Each subject contains 5 runs, where in each run they are thinking about randomized members of their group.
 
-## The result
+## result
 I was able to build a successful predictive model that decoded (above chance) who in a group of 6 acquanted individuals a respective person in the group is thinking of.
 
 - - - -
