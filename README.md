@@ -3,6 +3,7 @@ My contributions to the CSNL Round Robin Person Decoding analysis, a large proje
 
 ## publication
 Person Decoding Classification Searchlight Analysis (*In Review*)
+* TD Guthrie, AD Frost, RS Chavez
 
 ## directory structure
 There are preprocessing and analysis pipelines for the study:
