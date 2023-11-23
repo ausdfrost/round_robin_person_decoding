@@ -7,7 +7,7 @@ Here is how the analysis pipeline was built and deployed:
 3. Ran ['deployable/rr_pd_sl_endorsement_no.py'](deployable/rr_pd_sl_endorsement_no.py) for single classifier metric accuracy, given endorsement_no
 4. Ran ['deployable/rr_pd_sl_endorsement_yes.py'](deployable/rr_pd_sl_endorsement_yes.py) for single classifier metric accuracy, given endorsement_yes
 
-Note: ['deployable/rr_pd_sl_batch.py'](deployable/rr_pd_sl_batch.py) is used to run the scripts in batch such that the script is deployed for each subject
+Note: ['deployable/rr_pd_sl_batch.py'](deployable/rr_pd_sl_batch.py) is used to run the respective scripts in batch such that the script is deployed for each subject
 
 Analysis has now been run!
 
