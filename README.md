@@ -10,7 +10,7 @@ There are preprocessing and analysis pipelines for the study:
     3. Finish preprocessing BIDS data in fMRIPrep [(~/fmriprep)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/preprocessing/fmriprep)
     4. Registering subject data run by run to first run (to create similar masks) [(~/zstat)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/preprocessing/zstat)
     5. Merging zstat files [(~/zstat)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/preprocessing/zstat)
-2. Classification Searchlight Analysis Pipeline [(~/searchlight)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/searchlight)
+2. Classification Searchlight Analysis Pipeline [(~/searchlight_pipeline)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/searchlight_pipeline)
     1. Jupyter notebook(s) for building and testing the pipeline on a single subject
     2. Run various 'rr_pd_sl_[...].py' for various classifier metrics (accuracy, sensitivity, specificity)
 
