@@ -13,6 +13,7 @@ Analysis has now been run!
 
 - - - -
 
-A project by Aussie Frost supervised by Taylor Guthrie.
+A project by Aussie Frost, supervised by Taylor Guthrie and Robert Chavez.
 * Started: 2023/03/20
 * Accuracy SL deployed: 2023/07/05
+* Endorsement SL deployed: 2023/11/20
