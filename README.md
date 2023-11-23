@@ -12,7 +12,7 @@ There are preprocessing and analysis pipelines for the study:
     5. Merging zstat files [(~/zstat)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/preprocessing/zstat)
 2. Classification Searchlight Analysis Pipeline [(~/searchlight_pipeline)](https://github.com/austinfroste/round_robin_person_decoding/tree/main/searchlight_pipeline)
     1. Jupyter notebook(s) for building and testing the pipeline on a single subject
-    2. Run various 'rr_pd_sl_[...].py' for various classifier metrics (accuracy, sensitivity, specificity)
+    2. Run various 'rr_pd_sl_[...].py' for desired initial_accuracy, endorsement_no, endorsement_yes
 
 ## model
 We wish to predict who in a group of 6 acquanted individuals a respective person in the group is thinking of by running a searchlight classification analysis on all subjects in the study. We have 20 groups of 6 individuals that we ran this analysis on.
@@ -37,4 +37,4 @@ Using the [BrainIAK framework](https://github.com/brainiak/brainiak), an open-so
 * Started: 2022/08/01 (preprocessing) -> 2023/03/20 (analysis)
 * Finished: 2022/11/01 (preprocessing) -> 2023/09/06 (analysis pass1) -> 2023/11/22 (analysis pass2)
 
-> TODO: finish code annotation, publish finalized code, revise organisation, update readme
+> TODO: finish code annotation, publish finalized code, revise organisation, update readme, inform on endorsement_no/yes
