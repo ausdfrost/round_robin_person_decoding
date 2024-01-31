@@ -14,11 +14,14 @@ There are preprocessing and analysis pipelines for the study:
     1. Jupyter notebook(s) for building and testing the pipeline on a single subject
     2. Run various 'rr_pd_sl_[...].py' for desired initial_accuracy, endorsement_no, endorsement_yes
 
-## model
+## outline
 We wish to predict who in a group of 6 acquanted individuals a respective person in the group is thinking of by running a searchlight classification analysis on all subjects in the study. We have 20 groups of 6 individuals that we ran this analysis on.
 
 ## data
 The dataset (to be published at a later date) consisted of Functional magnetic resonance imaging (fMRI) brain scans 20 groups of 6 subjects (114 subjects total) collected by our lab. Each subject contains 5 runs, where in each run they are thinking about randomized members of their group.
+
+## model 
+I utilized Sci-Kit Learn's `linear`
 
 ## results
 I was able to build a successful predictive model that decoded (above chance) who in a group of 6 acquanted individuals a respective person in the group is thinking of.
