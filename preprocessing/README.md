@@ -10,6 +10,8 @@ Here is how I preprocessed the data:
 
 Data is now ready to use!
 
+[BIDS (brain imaging data structure) tools](https://bids.neuroimaging.io/benefits) were leveraged to convert the brain images into a standard and shareable format.
+
 - - - -
 
 A project by Aussie Frost supervised by Taylor Guthrie.
