@@ -24,7 +24,7 @@ The dataset (to be published at a later date) consisted of Functional magnetic r
 The model is built using Sci-Kit Learn's `sklearn.svm.LinearSVC()` SVM classifier and BrainIAK's Searchlight Classification analysis framework to deploy it on the brain data. Leave one run out cross validation was utilized such that our classifications would hold little bias, and we could perform classifications on a very large dataset. A multi-class classification model was used since the data is labeled for which of 5 other subjects a person is (presumably) thinking of at the given moment in the time series. Performing these comptations across all of our data was very computationally expensive, and thus the analysis was deployed in parallel on the university's supercomputer. Various Jupyter notebooks can be found [here](searchlight_pipeline/exploration) demonstrating some of my process to building our model from the BrainIAK framework. Metrics of accuracy, sensitivity, and specificity were generated to evaluate the model performance.
 
 ## results
-We found that the model was able to identify distinct brain representations for subjects within brain above chance.
+The model was able to successfuly predict who someone is thinking about above chance by running a classification model on their whole brain. We concluded that representations of individuals are distinct to locations in the brain, and that we can look at brain images and decode who someone is thinking about at a given point.
 
 ## publications
 * Person Decoding Classification Searchlight Analysis (In Review) - *TD Guthrie, AD Frost, RS Chavez*
