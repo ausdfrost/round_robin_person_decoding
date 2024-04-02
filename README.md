@@ -1,5 +1,5 @@
 # round_robin_person_decoding
-My contributions to the CSNL Round Robin Person Decoding analysis, a large project that occupied my third year at the University of Oregon. The publication is slated as 'Person Decoding Classification Searchlight Analysis' and is currently in review.
+My contributions to the CSNL Round Robin Person Decoding analysis, a large project that occupied my third year at the University of Oregon. The analysis publication is titled as 'Decoding Person Identity of Known Others' and is currently in review.
 
 ## directory structure
 There are preprocessing and analysis pipelines for the study:
