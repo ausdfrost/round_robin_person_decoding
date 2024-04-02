@@ -27,7 +27,7 @@ The model is built using Sci-Kit Learn's `sklearn.svm.LinearSVC()` SVM classifie
 The model was able to successfuly predict who someone is thinking about above chance by running a classification model on their whole brain. We concluded that representations of individuals are distinct to locations in the brain, and that we can look at brain images and decode who someone is thinking about at a given point.
 
 ## publications
-* Person Decoding Classification Searchlight Analysis (In Review) - *TD Guthrie, AD Frost, RS Chavez*
+* Decoding Person Identity of Known Others - *TD Guthrie, AD Frost, RS Chavez*
 
 * Round Robin Data Paper (In Review) - *TD Guthrie, AD Frost, RS Chavez*
 
