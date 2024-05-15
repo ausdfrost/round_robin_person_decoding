@@ -1,4 +1,4 @@
-# Preprocessing
+# Round Robin Data Standardization and Preprocessing
 ## Data Overview
 The dataset (to be published at a later date) consisted of Functional magnetic resonance imaging (fMRI) brain scans 20 groups of 6 subjects (114 subjects total) collected by our lab. Each subject contains 5 runs, where in each run they are thinking about randomized members of their group. For each brain scan, there roughly are 250,000 voxels, or data points, so we are working with a massive 142,500,000 data points across the 5 runs per 114 subjects.
 
