@@ -1,4 +1,4 @@
-# Classification Searchlight Analysis Pipeline
+# CSNL Person Decoding Classification Searchlight Analysis Pipeline
 
 Here is how the analysis pipeline was built and deployed:
 
